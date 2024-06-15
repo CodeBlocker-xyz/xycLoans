@@ -25,6 +25,10 @@ The fact that xycLoans doesn't depend on price oracles, doesn't have complex rew
 1. Pro subscription to analytics and additional features in the UI.
 2. Sponsored protocol updates. The factory contract is controlled by us in that when a new version of xycLoans pools is developed, that will be the new reference pool for our users. However, there is no way us updating the factory contract's hashes has impact on the pools' state, thus on the lenders' liquidity. We will just offer the possibility to migrate to new versions of the contract. All the work we do for protocol updates and migration interfaces is sponsored by donations.
 
-## Links
+### Github
 
-(CodeBlocker52)[https://github.com/CodeBlocker-xyz]
+[CodeBlocker](https://github.com/CodeBlocker52/StoryTeller)
+
+### Licence
+MIT
+
